@@ -19,7 +19,7 @@ import ParentBookings from "./pages/parent/Bookings";
 // Caregiver pages
 import CaregiverDashboard from "./pages/caregiver/Dashboard";
 import CaregiverBookings from "./pages/caregiver/Bookings";
-import CaregiverProfile from "./pages/caregiver/Profile";
+import CaregiverProfile from "./pages/caregiver/profile";
 
 function App() {
   return (
